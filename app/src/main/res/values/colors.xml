@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black2">#190019</color>
+    <color name="black_purple">#2B124C</color>
+    <color name="mid_purple">#522B5B</color>
+    <color name="soft_purple">#854F6C</color>
+    <color name="canvern_pink">#DFB6B2</color>
+    <color name="back">#FBE4D8</color>
+</resources>
